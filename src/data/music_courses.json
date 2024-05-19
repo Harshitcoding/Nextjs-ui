@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": "Embark on your musical journey by mastering the fundamentals of guitar playing. In this comprehensive course, you'll learn everything you need to know to start playing the guitar confidently.",
+            "price": 99.99,
+            "instructor": "Jonny",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 2,
+            "title": "Piano Basics",
+            "slug": "piano-basics",
+            "description": "Discover the joy of playing the piano with our Piano Basics course. Sarah, our experienced instructor, will take you on a journey through the fundamentals of piano playing. You'll learn essential techniques such as hand positioning, note reading, scales, and basic chord progressions. With step-by-step guidance and plenty of practice exercises, this course is perfect for beginners who want to develop a strong foundation in piano playing.",
+            "price": 79.99,
+            "instructor": "Sarah",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 3,
+            "title": "Music Theory 101",
+            "slug": "music-theory-101",
+            "description": "Unlock the mysteries of music with our Music Theory 101 course. Led by David, a seasoned musician and educator, this course will provide you with a comprehensive understanding of music theory principles.",
+            "price": 109.99,
+            "instructor": "David",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 4,
+            "title": "Singing Techniques",
+            "slug": "singing-techniques",
+            "description": "Transform your singing voice with our Singing Techniques course. Under the guidance of Maria, a skilled vocal coach, you'll learn a variety of vocal exercises and techniques to improve your vocal range, control, and tone quality. From breathing exercises to vocal warm-ups and performance tips, this course covers all aspects of singing to help you become a confident and expressive vocalist.",
+            "price": 129.99,
+            "instructor": "Maria",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 5,
+            "title": "Drumming Essentials",
+            "slug": "drumming-essentials",
+            "description": "Get ready to rock the rhythm with our Drumming Essentials course. Led by Chris, a professional drummer, this course will teach you the essential drumming techniques and rhythms to kickstart your drumming journey.",
+            "price": 89.99,
+            "instructor": "Chris",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHJ1bXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 6,
+            "title": "Bass Guitar Basics",
+            "slug": "bass-guitar-basics",
+            "description": "Groove to the rhythm with our Bass Guitar Basics course. Led by Mike, an experienced bassist, this course will teach you the fundamentals of playing bass guitar. From mastering the fretboard to understanding bass lines and rhythms, you'll learn how to hold down the low end and create solid grooves that lock in with the music. Whether you're a beginner or looking to expand your musical skills, this course is your gateway to becoming a confident bassist. With practical exercises and expert guidance, you'll develop the techniques and musicality to play along with your favorite songs and join in on jam sessions with confidence.",
+            "price": 94.99,
+            "instructor": "Mike",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHJ1bXxlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ]
+}
